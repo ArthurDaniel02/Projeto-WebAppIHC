@@ -20,7 +20,7 @@ Iremos integrar de começo apenas o sistema de Dungeons & Dragons Quinta ediçã
 
 Deve conseguir criar, editar, excluir e ver "Campanhas/Aventuras", e convidar os outros usuários jogadores.
 
-Dentro destas "Campanhas", deve poder criar, editar, excluir e ver
+Dentro destas "Campanhas", deve conseguir criar, editar, excluir e ver
     - Documentos (Handouts), 
     - Fichas de personagens integradas (automatizando rolagem de dados, regras e modificadores)
     - Mapas
