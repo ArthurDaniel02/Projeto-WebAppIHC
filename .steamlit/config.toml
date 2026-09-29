@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF4B4B"          # Cor dos botões e destaques
+backgroundColor = "#ffffff"      # Cor de fundo principal
+secondaryBackgroundColor = "#c03939" # Cor do menu lateral e caixas
+textColor = "#0c0b0b"            # Cor do texto
+font = "sans serif"              
